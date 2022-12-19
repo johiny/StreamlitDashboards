@@ -1,0 +1,31 @@
+,Género,País,Visualizador favorito,Color favorito,Género musical favorito,Rango de edad,Fecha de inicio en data,Objetivo en data,Sistema operativo que usas
+0,Masculino,Mexico,Tableau,Rojo,Rock,26 - 30,1/01/2019,Machine Learning Engineer,Mac Os
+1,Masculino,Argentina,Power BI,Azul,Rock nacional,31 - 35,15/09/2022,Data Analyst,Windows
+2,Masculino,Argentina,Power BI,Verde,Metal,46 - 50,1/01/2022,Data Science,Linux (distros)
+3,Masculino,Mexico,Spotfire,Azul,Pop,41 - 45,4/04/2018,Machine Learning Engineer,Windows
+4,Masculino,Colombia,Tableau,Verde,Electronica,26 - 40,1/05/2020,Machine Learning Engineer,Mac Os
+5,Masculino,Mexico,Power BI,Negro,Rap,26 - 30,1/07/2022,Data Science,Mac Os
+6,Femenino,Mexico,Tableau,Amarillo,Pop,26 - 30,12/10/2022,Data Analyst,Windows
+7,Femenino,Mexico,Power BI,Lila,Pop,21 - 25,11/10/2022,Data Analyst,Windows
+8,Masculino,Colombia,Tableau,Azul,Andino,31 - 35,1/01/2022,Data Science,Mac Os
+9,Masculino,Chile,Looker Studio,Azul,Metal,31 - 35,5/11/2021,Data Analyst,Mac Os
+10,Femenino,Mexico,Looker Studio,Morado,Pop barroco,26 - 30,1/09/2018,BI Analyst,Windows
+11,Masculino,Argentina,Power BI,Verde,Rock,26 - 40,10/01/2020,Data Analyst,Mac Os
+12,Masculino,Mexico,Power BI,Negro,Salsa,26 - 30,1/10/2022,BI Analyst,Windows
+13,Femenino,Mexico,Tableau,Verde,Rock alternativo,31 - 35,1/10/2022,Data Analyst,Windows
+14,Masculino,Ecuador,Power BI,Negro,Deep house,21 - 25,1/11/2022,Data Science,Windows
+15,Masculino,Venezuela,Tableau,Verde,Musica de los 80,46 - 50,2/01/2022,Data Science,Mac Os
+16,Masculino,Argentina,Ninguno en particular ,Azul,Rock,26 - 30,19/10/2022,Data Analyst,Windows
+17,Femenino,Colombia,Tableau,Rosa,Pop,21 - 25,1/01/2021,Data Science,Windows
+18,Masculino,Uruguay,Tableau,Azul,Gospel,26 - 40,1/10/2022,Data Science,Mac Os
+19,Masculino,Mexico,Power BI,Azul,Electronica,26 - 30,19/10/2022,Data Analyst,Windows
+20,Masculino,Colombia,Datawrapper,Blanco,Lofi hip-hop,21 - 25,15/09/2022,Machine Learning Engineer,Windows
+21,Masculino,Mexico,Power BI,Azul,Metal,41 - 45,1/11/2022,Data Science,Windows
+22,Femenino,Mexico,No tengo,Rojo,Alternativa,26 - 30,1/10/2022,Data Science,Windows
+23,Masculino,Mexico,Power BI,Morado,Metalcore,21 - 25,19/10/2022,Machine Learning Engineer,Windows
+24,Masculino,Mexico,Power BI,Azul,Electronica,21 - 25,19/07/2020,Data Science,Windows
+25,Masculino,Mexico,Power BI,Verde militar,"Rock, pop",31 - 35,19/10/2022,Data Engineer,Windows
+26,Masculino,Ecuador,Power BI,Negro,Regueton,21 - 25,19/10/2022,Data Science,Windows
+27,Femenino,Colombia,Power BI,Cian,Salsa,26 - 30,2/11/2020,Data Analyst,Windows
+28,Masculino,Argentina,Power BI,Amarillo,Clasica,26 - 40,1/02/2020,Data Science,Windows
+29,Masculino,Colombia,Looker Studio,Verde,Rock clasico,51 +,17/12/2022,Data Science,Windows
